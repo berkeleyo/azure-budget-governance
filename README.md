@@ -59,7 +59,7 @@ Shortcut links:
 
 ---
 
-## 🧩 High-level flow (Mermaid)
+## 🧩  Flow 
 
 ```mermaid
 flowchart LR
