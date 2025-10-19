@@ -1,0 +1,34 @@
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+.venv/
+.env
+*.pyc
+
+# Node / general build
+node_modules/
+dist/
+build/
+coverage/
+
+# Terraform
+.terraform*
+*.tfstate
+*.tfstate.backup
+crash.log
+
+# Logs
+*.log
+
+# Azure DevOps artefacts
+*.coverage
+*.trx
+output/
